@@ -1,0 +1,8 @@
+
+       /**********************   TESTING     ************************/
+
+This is my first GIT file.
+
+6th line.
+7th line.
+8th line.
